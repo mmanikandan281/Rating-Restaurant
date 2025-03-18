@@ -53,7 +53,7 @@ The model achieved satisfactory performance with the following metrics:
 - Mean Squared Error: *value*
 - R-squared: *value*
 
-##If Working in collab
+## If coding in collab
 2. Collab Link:
    ```bash
    https://colab.research.google.com/drive/1d7qfvbN5utqV-IzdfnmQ95_tsl8rUF28?usp=sharing
