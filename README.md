@@ -2,6 +2,11 @@
 
 This project aims to build a predictive model that estimates restaurant ratings based on various features such as location, cuisine, and customer feedback. The goal is to help customers make informed dining choices and assist restaurants in improving their services.
 
+
+![Screenshot (85)](https://github.com/user-attachments/assets/db69b950-87f5-49cb-ae34-c319dce4250d)
+
+
+
 ## ⚡ Project Overview
 - **Objective:** Predict restaurant ratings using machine learning techniques.
 - **Dataset:** Includes features like restaurant name, location, cuisine type, price range, and customer reviews.
